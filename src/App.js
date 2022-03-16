@@ -19,9 +19,9 @@ const App = () => {
         console.log("There was an error grabbing the data ", e);
       });
   }, []);
-  console.log("steps ", steps);
+
   return (
-    <div>
+    <div style={{ paddingBottom: "100px" }}>
       <Header />
       <Hero />
       <FadeInSection>
