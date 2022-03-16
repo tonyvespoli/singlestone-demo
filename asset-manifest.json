@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/singlestone-demo/static/css/main.ed6a07ca.css",
-    "main.js": "/singlestone-demo/static/js/main.7a9fbfb8.js",
+    "main.js": "/singlestone-demo/static/js/main.8b458a2b.js",
     "static/js/787.0cb3c083.chunk.js": "/singlestone-demo/static/js/787.0cb3c083.chunk.js",
     "static/media/photo-couch_2x.jpg": "/singlestone-demo/static/media/photo-couch_2x.0db18f79ef0042a56edd.jpg",
     "static/media/photo-couch.jpg": "/singlestone-demo/static/media/photo-couch.849417d95eeab9296564.jpg",
@@ -12,11 +12,11 @@
     "static/media/loading-bubbles.svg": "/singlestone-demo/static/media/loading-bubbles.d62669ffe80d7cfaee5c3a9d6557d13e.svg",
     "index.html": "/singlestone-demo/index.html",
     "main.ed6a07ca.css.map": "/singlestone-demo/static/css/main.ed6a07ca.css.map",
-    "main.7a9fbfb8.js.map": "/singlestone-demo/static/js/main.7a9fbfb8.js.map",
+    "main.8b458a2b.js.map": "/singlestone-demo/static/js/main.8b458a2b.js.map",
     "787.0cb3c083.chunk.js.map": "/singlestone-demo/static/js/787.0cb3c083.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed6a07ca.css",
-    "static/js/main.7a9fbfb8.js"
+    "static/js/main.8b458a2b.js"
   ]
 }
